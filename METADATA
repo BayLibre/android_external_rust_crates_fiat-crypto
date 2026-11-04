@@ -1,0 +1,28 @@
+name: "fiat-crypto"
+description: "Fiat-crypto generated Rust"
+third_party {
+  version: "0.2.9"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2026
+    month: 11
+    day: 4
+  }
+  homepage: "https://crates.io/crates/fiat-crypto"
+  identifier {
+    type: "crates.io"
+    value: "fiat-crypto"
+    version: "0.2.9"
+    primary_source: true
+  }
+  identifier {
+    type: "Archive"
+    value: "https://static.crates.io/crates/fiat-crypto/fiat-crypto-0.2.9.crate"
+    version: "0.2.9"
+  }
+  identifier {
+    type: "Git"
+    value: "https://github.com/mit-plv/fiat-crypto"
+    version: "b739724dcf585c4d85356a7772c7917db4b575f9"
+  }
+}
